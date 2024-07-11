@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\33494\Desktop\LeetCode.c" />
+    <ClCompile Include="LeetCode.c" />
     <ClCompile Include="test.c" />
   </ItemGroup>
   <ItemGroup>
