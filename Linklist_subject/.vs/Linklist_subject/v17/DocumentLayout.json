@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Linklist_subject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F838BA28-38A0-4A8F-811E-B15EC7A84B7D}|Linklist_subject\\Linklist_subject.vcxproj|E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Linklist_subject\\Linklist_subject\\Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F838BA28-38A0-4A8F-811E-B15EC7A84B7D}|Linklist_subject\\Linklist_subject.vcxproj|solutionrelative:Linklist_subject\\Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F838BA28-38A0-4A8F-811E-B15EC7A84B7D}|Linklist_subject\\Linklist_subject.vcxproj|E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Linklist_subject\\Linklist_subject\\LeetCode.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F838BA28-38A0-4A8F-811E-B15EC7A84B7D}|Linklist_subject\\Linklist_subject.vcxproj|solutionrelative:Linklist_subject\\LeetCode.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F838BA28-38A0-4A8F-811E-B15EC7A84B7D}|Linklist_subject\\Linklist_subject.vcxproj|E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Linklist_subject\\Linklist_subject\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F838BA28-38A0-4A8F-811E-B15EC7A84B7D}|Linklist_subject\\Linklist_subject.vcxproj|solutionrelative:Linklist_subject\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F838BA28-38A0-4A8F-811E-B15EC7A84B7D}|Linklist_subject\\Linklist_subject.vcxproj|E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Linklist_subject\\Linklist_subject\\Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F838BA28-38A0-4A8F-811E-B15EC7A84B7D}|Linklist_subject\\Linklist_subject.vcxproj|solutionrelative:Linklist_subject\\Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 308,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,33 +54,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Function.h",
               "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Linklist_subject\\Linklist_subject\\Function.h",
               "RelativeDocumentMoniker": "Linklist_subject\\Function.h",
               "ToolTip": "E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Linklist_subject\\Linklist_subject\\Function.h",
               "RelativeToolTip": "Linklist_subject\\Function.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-07-11T08:49:29.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LeetCode.c",
               "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Linklist_subject\\Linklist_subject\\LeetCode.c",
               "RelativeDocumentMoniker": "Linklist_subject\\LeetCode.c",
               "ToolTip": "E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Linklist_subject\\Linklist_subject\\LeetCode.c",
               "RelativeToolTip": "Linklist_subject\\LeetCode.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAFUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-07-11T08:55:24.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "test.c",
               "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Linklist_subject\\Linklist_subject\\test.c",
               "RelativeDocumentMoniker": "Linklist_subject\\test.c",
