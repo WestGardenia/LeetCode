@@ -29,8 +29,5 @@
     <ClInclude Include="Binary_Tree.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Queue.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,15 +1,17 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-#include"Queue.h"
-
+#include"Binary_Tree.h"
 
 Queue* QueueInit(Queue* Q)
 {
 	Q = (Queue*)malloc(sizeof(Queue));
+	if (!Q)
+	{
+		return NULL;
+		exit(-1);
+	}
 	Q->head = NULL;
 	Q->tail = NULL;
-
-
 
 	return Q;
 }
@@ -26,8 +28,11 @@ Queue* QueueDelate(Queue* Q)
 	QueueNode* cur = Q->head;
 	if (Q->head == Q->tail)
 	{
+		// 如果队列中只有一个数值，那么就将队列的头尾都置空，并且直接返回队列指针，不要返回空指针，以免后续还要调用
+		// 注意区别空队列和队列空指针
+		Q->head = NULL;
 		Q->tail = NULL;
-		return NULL;
+		return Q;
 	}
 	while (cur->next != Q->tail)
 	{
@@ -63,12 +68,17 @@ Queue* QueuePush(Queue* Q, element_type val)
 void QueuePrint(Queue* Q)
 {
 	if (!Q)
+	{
+		printf("队列为空，无打印值！！！\n");
 		return;
+	}
+		
 	QueueNode* cur = Q->head;
 
 	while (cur)
 	{
-		printf("%d-> ", cur->data);
+		//printf("%d-> ", cur->data);
+		printf("%d-> ", cur->data->val);
 		cur = cur->next;
 	}
 }
@@ -87,3 +97,10 @@ void QueueDestroy(Queue* Q)
 	printf("\n");
 }
 
+int Queue_IsEmpty(Queue* Q)
+{
+	if (Q->head == NULL)
+		return 1;
+	else
+		return 0;
+}
