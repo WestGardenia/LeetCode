@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Binary_Tree_subject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CF6BE6C-580F-4734-870D-DB6AAC947AF4}|Binary_Tree_subject\\Binary_Tree_subject.vcxproj|E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Binary_Tree_subject\\Binary_Tree_subject\\Binary_Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1CF6BE6C-580F-4734-870D-DB6AAC947AF4}|Binary_Tree_subject\\Binary_Tree_subject.vcxproj|solutionrelative:Binary_Tree_subject\\Binary_Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CF6BE6C-580F-4734-870D-DB6AAC947AF4}|Binary_Tree_subject\\Binary_Tree_subject.vcxproj|E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Binary_Tree_subject\\Binary_Tree_subject\\Function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1CF6BE6C-580F-4734-870D-DB6AAC947AF4}|Binary_Tree_subject\\Binary_Tree_subject.vcxproj|solutionrelative:Binary_Tree_subject\\Function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1CF6BE6C-580F-4734-870D-DB6AAC947AF4}|Binary_Tree_subject\\Binary_Tree_subject.vcxproj|E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Binary_Tree_subject\\Binary_Tree_subject\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CF6BE6C-580F-4734-870D-DB6AAC947AF4}|Binary_Tree_subject\\Binary_Tree_subject.vcxproj|solutionrelative:Binary_Tree_subject\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CF6BE6C-580F-4734-870D-DB6AAC947AF4}|Binary_Tree_subject\\Binary_Tree_subject.vcxproj|E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Binary_Tree_subject\\Binary_Tree_subject\\LeastDepth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1CF6BE6C-580F-4734-870D-DB6AAC947AF4}|Binary_Tree_subject\\Binary_Tree_subject.vcxproj|solutionrelative:Binary_Tree_subject\\LeastDepth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CF6BE6C-580F-4734-870D-DB6AAC947AF4}|Binary_Tree_subject\\Binary_Tree_subject.vcxproj|E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Binary_Tree_subject\\Binary_Tree_subject\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1CF6BE6C-580F-4734-870D-DB6AAC947AF4}|Binary_Tree_subject\\Binary_Tree_subject.vcxproj|solutionrelative:Binary_Tree_subject\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1CF6BE6C-580F-4734-870D-DB6AAC947AF4}|Binary_Tree_subject\\Binary_Tree_subject.vcxproj|E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Binary_Tree_subject\\Binary_Tree_subject\\Binary_Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CF6BE6C-580F-4734-870D-DB6AAC947AF4}|Binary_Tree_subject\\Binary_Tree_subject.vcxproj|solutionrelative:Binary_Tree_subject\\Binary_Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF6BE6C-580F-4734-870D-DB6AAC947AF4}|Binary_Tree_subject\\Binary_Tree_subject.vcxproj|E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Binary_Tree_subject\\Binary_Tree_subject\\Function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CF6BE6C-580F-4734-870D-DB6AAC947AF4}|Binary_Tree_subject\\Binary_Tree_subject.vcxproj|solutionrelative:Binary_Tree_subject\\Function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 277,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Binary_Tree.h",
               "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Binary_Tree_subject\\Binary_Tree_subject\\Binary_Tree.h",
               "RelativeDocumentMoniker": "Binary_Tree_subject\\Binary_Tree.h",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Function.c",
               "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Binary_Tree_subject\\Binary_Tree_subject\\Function.c",
               "RelativeDocumentMoniker": "Binary_Tree_subject\\Function.c",
@@ -79,31 +79,30 @@
               "RelativeToolTip": "Binary_Tree_subject\\Function.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-07-13T14:35:52.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T14:35:52.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LeastDepth.c",
               "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Binary_Tree_subject\\Binary_Tree_subject\\LeastDepth.c",
               "RelativeDocumentMoniker": "Binary_Tree_subject\\LeastDepth.c",
               "ToolTip": "E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Binary_Tree_subject\\Binary_Tree_subject\\LeastDepth.c",
               "RelativeToolTip": "Binary_Tree_subject\\LeastDepth.c",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAAAG8AAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-07-10T14:21:21.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "test.c",
               "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Binary_Tree_subject\\Binary_Tree_subject\\test.c",
               "RelativeDocumentMoniker": "Binary_Tree_subject\\test.c",
               "ToolTip": "E:\\\u8BA1\u7B97\u673A\\\u8003\u7814408\\\u6570\u636E\u7ED3\u6784\\LeetCode\\Binary_Tree_subject\\Binary_Tree_subject\\test.c",
               "RelativeToolTip": "Binary_Tree_subject\\test.c",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-07-11T12:39:33.286Z",
               "EditorCaption": ""

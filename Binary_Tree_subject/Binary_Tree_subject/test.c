@@ -10,6 +10,8 @@ static void test_01()
 	Binary_Tree_PreOrder(RootNode);
 }
 
+
+// ¸¨Öú¶ÓÁĞ²âÊÔÓÃÀı
 //static void test_02()
 //{
 //#define element_type int
